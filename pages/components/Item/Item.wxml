@@ -1,0 +1,7 @@
+<view class="md-item" bindtap="goToDetail">
+  <view class="md-item-body">
+    <view class='md-font-14'>{{item.name}}</view>
+    <view class="md-item-arrow">></view>
+  </view>
+  <Divider></Divider>
+</view>

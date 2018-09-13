@@ -1,0 +1,62 @@
+/**app.wxss**/
+@import 'weui.wxss';
+/*
+  regular
+*/
+/*background  */
+
+.flex{
+  display: flex;
+}
+/* font size */
+
+.font-number {
+  font-size: 60rpx;
+}
+
+.font-title {
+  font-size: 32rpx;
+}
+
+.font-button{
+  font-size: 30rpx;
+}
+.font-content {
+  font-size: 28rpx;
+}
+.font-desc{
+  font-size: 20rpx;
+}
+
+/*font color */
+
+font-white{
+  color: #fff;
+}
+.font-light {
+  color: #b2b2b2;
+}
+
+.font-grey {
+  color: #888888;
+}
+
+.font-semi {
+  color: #353535;
+}
+
+.font-black {
+  color: #000000;
+}
+
+.font-red {
+  color: #e64340;
+}
+
+.font-blue {
+  color: #576b95;
+}
+
+.font-green {
+  color: #09BB07;
+}

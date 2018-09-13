@@ -1,0 +1,28 @@
+<view class="modal-body">
+    <view>颜色</view>
+    <Divider></Divider>
+    <view>
+        <ColorBox color="{{common}}"></ColorBox>
+        <ColorBox color="{{amber}}"></ColorBox>
+        <ColorBox color="{{blue}}"></ColorBox>
+        <ColorBox color="{{blueGrey}}"></ColorBox>
+        <ColorBox color="{{brown}}"></ColorBox>
+        <ColorBox color="{{cyan}}"></ColorBox>
+        <ColorBox color="{{deepOrange}}"></ColorBox>
+        <ColorBox color="{{deepPurple}}"></ColorBox>
+        <ColorBox color="{{green}}"></ColorBox>
+        <ColorBox color="{{grey}}"></ColorBox>
+        <ColorBox color="{{indigo}}"></ColorBox>
+        <ColorBox color="{{lightBlue}}"></ColorBox>
+        <ColorBox color="{{lightGreen}}"></ColorBox>
+        <ColorBox color="{{lime}}"></ColorBox>
+        <ColorBox color="{{orange}}"></ColorBox>
+        <ColorBox color="{{pink}}"></ColorBox>
+        <ColorBox color="{{purple}}"></ColorBox>
+        <ColorBox color="{{red}}"></ColorBox>
+        <ColorBox color="{{teal}}"></ColorBox>
+        <ColorBox color="{{yellow}}"></ColorBox>
+    </view>
+</view>
+
+

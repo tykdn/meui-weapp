@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "吐槽下",
+    "usingComponents": {
+        "Modal": "../../components/Modal/Modal"
+    }
+}

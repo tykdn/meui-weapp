@@ -1,0 +1,14 @@
+<view class="md-home-page">
+    <view class="md-home-head">
+        <image src="../../img/logo.svg"  class="md-logo"/>
+        <text class="md-home-title">基于Material Design的微信小程序UI组件库</text>
+    </view>
+    <view>form</view>
+    <view class="md-home-body">
+        <Item wx:for="{{items}}" wx:key="{{item.key}}" item="{{item}}"></Item>
+    </view>
+    <view>callback</view>
+    <view class="md-home-body">
+        <Item wx:for="{{items}}" wx:key="{{item.key}}" item="{{item}}"></Item>
+    </view>
+</view>

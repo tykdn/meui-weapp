@@ -1,0 +1,20 @@
+/* Itemwp.wxss */
+.md-color-box{
+    display:inline-block;
+    width:40%;
+    margin:0 5%;
+}
+.md-color-box-label{
+    padding:20px 0 10px 10px;
+   font-size:16px
+}
+.md-color-box-content{
+    height:36px;
+}
+.md-font-14{
+    height:100%;
+   display:flex;
+   align-items:center;
+   justify-content:space-around;
+    font-size:14px;
+}

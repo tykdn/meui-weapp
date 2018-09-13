@@ -1,0 +1,13 @@
+# for Mac OS X System Files
+.DS_Store
+
+# for IDEA
+.idea
+
+# for wechat tool
+
+project.config.json
+
+
+#dist
+dist/

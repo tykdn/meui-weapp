@@ -1,0 +1,48 @@
+/* Modal.wxss */
+.box{
+    height: 220rpx;
+    width: 220rpx;
+    border: 1px solid #CECECE;
+    border-radius: 11rpx;
+}
+.clearfloat{
+    overflow: hidden;
+}
+.add-img{
+    width: 220rpx;
+    height: 220rpx;
+    background-color: #eeeeee;
+    margin: 9rpx;
+    /*position: relative;*/
+}
+.imga-po{
+    position: relative;
+}
+.sy {
+    color: #CECECE;
+    font-size: 26rpx;
+    float: right;
+    margin-right: 15px;
+}
+.images{
+    display: flex;
+    padding:40rpx 15rpx;
+    flex-wrap:wrap;
+}
+.delete-img-mask{
+    width: 220rpx;
+    height: 220rpx;
+    background-color: #eeeeee;
+    opacity: 0.5;
+    margin-top: -242rpx;
+    margin-left: 9rpx;
+}
+.delete{
+    width:30rpx;
+    height:30rpx;
+    position:absolute;
+    z-index:1;
+    right:20rpx;
+    top:20rpx;
+
+}

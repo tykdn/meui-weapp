@@ -1,0 +1,7 @@
+<view class="modal-body">
+    <view>图片上传组件</view>
+    <Upload  id="uploadimage"></Upload>
+    <button bindtap="onConfirm">confirm</button>
+</view>
+
+

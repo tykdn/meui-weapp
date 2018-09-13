@@ -1,0 +1,32 @@
+@import '../../weui.wxss';
+
+.weui-cell{
+    padding: 12px 15px 12px 35px;
+}
+
+.h-page__bd{
+    margin: 20rpx;
+}
+.h-search-bar{
+    background-color: #fff !important;
+    border: 0;
+    justify-content: space-between;
+}
+.h-search-bar__form{
+    /* background: #eee; */
+    border-radius: 30rpx;
+}
+.h-search-bar__label{
+    /* background: #eee !important; */
+    border-radius: 30rpx;
+    /* margin-left: -20rpx !important; */
+    font-size:28rpx;
+}
+.weui-search-bar-box{
+    display: flex;
+    /* flex: 1; */
+    justify-content:flex-start;
+}
+.h-search__cancel{
+    font-size: 28rpx;
+}

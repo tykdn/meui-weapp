@@ -1,0 +1,19 @@
+<!--Divider.wxml-->
+<view class="clearfloat">
+    <view class="images">
+        <block wx:for="{{image_url}}" wx:key="*this">
+            <view  bind:tap="previewImage" data-index="{{index}}" class="imga-po" >
+                <image class="add-img" src="{{item}}"></image>
+                <image src="../../img/delete.svg" catchtap="deleteImage" data-index="{{index}}"  class="delete"/>
+            </view>
+        </block>
+        <view class="add">
+            <view  class="box">
+                <view bind:tap="uploadPhoto">
+                    <i-icon type="add" size="110" color="#CECECE"/>
+                </view>
+            </view>
+        </view>
+    </view>
+    <view class="sy">{{image_url.length}} / 9</view>
+</view>

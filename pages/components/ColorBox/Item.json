@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "Divider": "../../../components/Divider/Divider"
+  }
+}

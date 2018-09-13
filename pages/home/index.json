@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+        "Item": "../components/Item/Item"
+    },
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 10
+}

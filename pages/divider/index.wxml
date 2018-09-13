@@ -1,0 +1,6 @@
+<view class="modal-body">
+    <view>分割线</view>
+    <Divider></Divider>
+</view>
+
+

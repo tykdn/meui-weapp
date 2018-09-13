@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "吐槽下",
+    "usingComponents": {
+        "Divider": "../../../../components/Divider/Divider"
+    }
+}

@@ -1,0 +1,23 @@
+/* components/Chip.wxss */
+.selected-item{
+  display: flex;
+  border-radius: 45rpx;
+  min-width: 140rpx;  
+  justify-content:center;
+  padding: 5rpx;
+  align-items: center;
+  flex: none;
+  background: #E5E5E5;
+  color:#2196F3;
+  height: 38rpx;
+}
+.selected{
+  color:  #2186F3;
+  background:#fff;
+  border:#2186F3 1rpx solid;
+}
+.font-desc{
+  font-size: 24rpx;
+  margin:0rpx 10rpx 0rpx 20rpx;
+  vertical-align: center;
+}

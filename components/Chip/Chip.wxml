@@ -1,0 +1,5 @@
+<!--components/Chip.wxml-->
+<view class="{{selected? 'selected-item selected': 'selected-item'}}" bind:tap="handleTap">
+  <view class="font-desc">{{text}}</view>
+  <icon type="clear" hidden="{{!selected}}" color="#2196F3" size="15"></icon>
+</view>

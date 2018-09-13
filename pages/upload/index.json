@@ -1,0 +1,13 @@
+{
+    "navigationBarTitleText": "吐槽下",
+    "usingComponents": {
+        "Upload": "../../../../components/Upload/Upload",
+        "i-input": "../../../dist/input/index",
+        "i-radio": "../../../dist/radio/index",
+        "i-icon": "../../../dist/icon/index",
+        "i-button": "../../../dist/button/index",
+        "i-panel": "../../../dist/panel/index",
+        "i-modal": "../../../dist/modal/index",
+        "i-divider": "../../../dist/divider/index"
+    }
+}

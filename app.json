@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/upload/index",
+    "pages/divider/index",
+    "pages/color/index",
+    "pages/modal/index",
+    "pages/icon/index"
+  ],
+  "window": {
+    "backgroundColor": "#aee",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "meui-weapp",
+    "navigationBarTextStyle": "black"
+  }
+}

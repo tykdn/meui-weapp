@@ -1,0 +1,11 @@
+<view class="modal-body">
+    <view>分割线</view>
+    <Modal  visible="true">
+        <view class="md-home-head">
+            <image src="../../img/logo.svg"  class="md-logo"/>
+            <text class="md-home-title">基于Material Design的微信小程序UI组件库</text>
+        </view>
+    </Modal>
+</view>
+
+

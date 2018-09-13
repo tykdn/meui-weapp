@@ -1,0 +1,9 @@
+<view class="md-color-box">
+  <view class="md-color-box-label">{{color.key}}</view>
+  <view class="md-color-box-content" wx:for="{{color.array}}" style="background-color:{{item}} ">
+    <view class='md-font-14'>
+      <view>{{index}}</view>
+      <view>{{item}}</view>
+    </view>
+  </view>
+</view>

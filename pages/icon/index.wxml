@@ -1,0 +1,167 @@
+<view class="modal-body">
+    <view>Icon</view>
+    <Divider></Divider>
+    <view class="icon-item" wx:for="{{ list }}" wx:key="{{ item }}">
+        <i-icon type="{{ item }}" size="28" color="#80848f"></i-icon>
+        <view class="icon-item-name">{{ item }}</view>
+    </view>
+
+
+    <view>Movie 、Music Icon</view>
+    <Divider></Divider>
+    <view class="font-lists">
+        <text>All members</text>
+        <view class="font-box">
+            <i class="fusi fusi-shawshank"></i><br />
+            <text>shawshank</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-thor"></view><br />
+            <view>thor</view>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-shutter-island"></view><br />
+            <text>shutter-island</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-clockwork-orange"></view><br />
+            <text>clockwork-orange</text>
+        </view>
+        <view class="font-box black-bg">
+            <view class="fusi fusi-vendetta"></view><br />
+            <text>vendetta</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-baymax"></view><br />
+            <text>baymax</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-inception"></view><br />
+            <text>inception</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-gambit"></view><br />
+            <text>gambit</text>
+        </view>
+        <view class="font-box black-bg">
+            <view class="fusi fusi-welle"></view><br />
+            <text>welle</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-jeux-denfants"></view><br />
+            <text>jeux-denfants</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-leon"></view><br />
+            <text>leon</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-tars"></view><br />
+            <text>tars</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-matrix"></view><br />
+            <text>matrix</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-batman"></view><br />
+            <text>batman</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-phantom-of-opera"></view><br />
+            <text>phantom-of-opera</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-titanic"></view><br />
+            <text>titanic</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-amelie"></view><br />
+            <text>amelie</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-invisible-man"></view><br />
+            <text>invisible-man</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-shawshank-redemption"></view><br />
+            <text>shawshank-redemption</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-the-island"></view><br />
+            <text>the-island</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-life-of-pi"></view><br />
+            <text>life-of-pi</text>
+        </view>
+        <view class="font-box black-bg">
+            <view class="fusi fusi-legend-of-1900"></view><br />
+            <text>legend-of-1900</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-up"></view><br />
+            <text>up</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-starwars-0"></view><br />
+            <text>starwars-0</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-building"></view><br />
+            <text>building</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-conversation"></view><br />
+            <text>conversation</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-news-paper"></view><br />
+            <text>news-paper</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-lock"></view><br />
+            <text>lock</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-programme"></view><br />
+            <text>programme</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-army-knife"></view><br />
+            <text>army-knife</text>
+        </view><view class="font-box">
+        <view class="fusi fusi-four-box"></view><br />
+        <text>four-box</text>
+    </view>
+        <view class="font-box">
+            <i class="fusi fusi-applications"></i><br />
+            <text>applications</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-environment"></view><br />
+            <text>environment</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-puzzle"></view><br />
+            <text>puzzle</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-hexagram"></view><br />
+            <text>hexagram</text>
+        </view>
+        <view class="font-box">
+            <view class="fusi fusi-shield"></view><br />
+            <text>shield</text>
+        </view>
+        <view class="font-box">
+            <i class="fusi fusi-"></i><br />
+            <text></text>
+        </view>
+        <view class="font-box">
+            <text style="line-height:80px;font-weight:bold;">to be continued</text>
+        </view>
+    </view>
+</view>
+
+
